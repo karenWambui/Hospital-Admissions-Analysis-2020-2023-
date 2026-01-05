@@ -22,7 +22,7 @@ The data was cleaned and transformed in Power BI using Power Query:
 -Created custom measures using DAX
 -Power BI dashboard
 
-**Skills**
+**Skills Used**
 Power BI: ETL,Dax,Calculated columns,data modelling,data visualization,writing functions
 
 **Results**
