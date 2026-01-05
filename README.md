@@ -43,7 +43,7 @@ Power BI: ETL,Dax,Calculated columns,data modelling,data visualization,writing f
 -Obesity was the condition generating the most revenue in 2020, affecting more males than females.
 
 **Readmissions**
--Total readmissions: ~7,500
+-Total readmissions:7,500
 -Most readmissions were emergency cases
 -In 2020, asthma had the highest readmissions
 
